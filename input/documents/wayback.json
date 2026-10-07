@@ -1,0 +1,95 @@
+[
+  {
+    "year": "2018",
+    "url": "https://moef.gov.in/uploads/pdf-uploads/pdf_68cbca7a83fdd4.09697693.pdf",
+    "job_id": "spn2-237d84c9154e6abcbda23cae69231022c09f020e",
+    "time_utc": "2026-10-07 14:05:03 UTC+0000",
+    "link_success": false,
+    "message": "error:gateway-timeout: The target server didn't respond in time for https://moef.gov.in/uploads/pdf-uploads/pdf_68cbca7a83fdd4.09697693.pdf. Please try again later. (HTTP status=504)"
+  },
+  {
+    "year": "2019",
+    "url": "https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc89265eea3.54841214.pdf",
+    "job_id": "spn2-13ce6e694792e44dbaa32f0e4aec9f0fbe380624",
+    "time_utc": "2026-10-07 13:59:13 UTC+0000",
+    "link_success": true,
+    "timestamp": "20261007135854",
+    "archive_url": "https://web.archive.org/web/20261007135854/https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc89265eea3.54841214.pdf",
+    "content_url": "https://web.archive.org/web/20261007135854id_/https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc89265eea3.54841214.pdf",
+    "message": ""
+  },
+  {
+    "year": "2020",
+    "url": "https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc2d073f9b6.32838497.pdf",
+    "job_id": "spn2-5278be5813373ac42638836b641b0e77d8bf939b",
+    "time_utc": "2026-10-07 13:59:35 UTC+0000",
+    "link_success": true,
+    "timestamp": "20261007135926",
+    "archive_url": "https://web.archive.org/web/20261007135926/https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc2d073f9b6.32838497.pdf",
+    "content_url": "https://web.archive.org/web/20261007135926id_/https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc2d073f9b6.32838497.pdf",
+    "message": ""
+  },
+  {
+    "year": "2021",
+    "url": "https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc2a4c7ea42.91411829.pdf",
+    "job_id": "spn2-2954380d2096016996b5d647c8792e674853eaff",
+    "time_utc": "2026-10-07 13:59:56 UTC+0000",
+    "link_success": true,
+    "timestamp": "20261007135947",
+    "archive_url": "https://web.archive.org/web/20261007135947/https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc2a4c7ea42.91411829.pdf",
+    "content_url": "https://web.archive.org/web/20261007135947id_/https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc2a4c7ea42.91411829.pdf",
+    "message": ""
+  },
+  {
+    "year": "2022",
+    "url": "https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc3367f2850.00765969.pdf",
+    "job_id": "spn2-9380924cc955f4ad16a0bdb0881aa7e4f1df717c",
+    "time_utc": "2026-10-07 14:01:17 UTC+0000",
+    "link_success": true,
+    "timestamp": "20261007140103",
+    "archive_url": "https://web.archive.org/web/20261007140103/https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc3367f2850.00765969.pdf",
+    "content_url": "https://web.archive.org/web/20261007140103id_/https://moef.gov.in/uploads/pdf-uploads/pdf_68cbc3367f2850.00765969.pdf",
+    "message": ""
+  },
+  {
+    "year": "2023",
+    "url": "https://moef.gov.in/uploads/pdf-uploads/pdf_68b58620558970.68210971.pdf",
+    "job_id": "spn2-bba79bbc8c0a61b3074b88495b82ed0c2764ffb5",
+    "time_utc": "2026-10-07 14:01:44 UTC+0000",
+    "link_success": true,
+    "timestamp": "20261007140129",
+    "archive_url": "https://web.archive.org/web/20261007140129/https://moef.gov.in/uploads/pdf-uploads/pdf_68b58620558970.68210971.pdf",
+    "content_url": "https://web.archive.org/web/20261007140129id_/https://moef.gov.in/uploads/pdf-uploads/pdf_68b58620558970.68210971.pdf",
+    "message": ""
+  },
+  {
+    "year": "2024",
+    "url": "https://moef.gov.in/uploads/pdf-uploads/pdf_68b53efe875cd7.10178988.pdf",
+    "job_id": "spn2-5573b78dfb773c1523ae4068c67d27fe6cd00762",
+    "time_utc": "2026-10-07 14:02:10 UTC+0000",
+    "link_success": true,
+    "timestamp": "20261007140156",
+    "archive_url": "https://web.archive.org/web/20261007140156/https://moef.gov.in/uploads/pdf-uploads/pdf_68b53efe875cd7.10178988.pdf",
+    "content_url": "https://web.archive.org/web/20261007140156id_/https://moef.gov.in/uploads/pdf-uploads/pdf_68b53efe875cd7.10178988.pdf",
+    "message": ""
+  },
+  {
+    "year": "2025",
+    "url": "https://moef.gov.in/uploads/pdf-uploads/pdf_68ae99d0e588b4.04010050.pdf",
+    "job_id": "spn2-59d1ffaf4a29787a5d3cbbe5b3efde6daa2f70ad",
+    "time_utc": "2026-10-07 14:03:04 UTC+0000",
+    "link_success": true,
+    "timestamp": "20261007140222",
+    "archive_url": "https://web.archive.org/web/20261007140222/https://moef.gov.in/uploads/pdf-uploads/pdf_68ae99d0e588b4.04010050.pdf",
+    "content_url": "https://web.archive.org/web/20261007140222id_/https://moef.gov.in/uploads/pdf-uploads/pdf_68ae99d0e588b4.04010050.pdf",
+    "message": ""
+  },
+  {
+    "year": "2026",
+    "url": "https://moef.gov.in/uploads/pdf-uploads/pdf_69f324f1307ba4.44249630.pdf",
+    "job_id": "",
+    "time_utc": "2026-10-07 14:05:18 UTC+0000",
+    "link_success": false,
+    "message": "service_failure: HTTP 404 non-JSON response: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server. If you entered the URL manually please check y"
+  }
+]
